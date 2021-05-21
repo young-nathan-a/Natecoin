@@ -1,0 +1,2 @@
+# joecoin
+Simple Crypto project.
