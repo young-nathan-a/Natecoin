@@ -1,2 +1,2 @@
-# joecoin
+# Natecoin
 Simple Crypto project.
